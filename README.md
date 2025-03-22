@@ -1,6 +1,6 @@
 # NoSQL Database Design for E-Commerce Application
 
-![E-Commerce Database Architecture](https://placeholder.svg?height=300&width=800&text=E-Commerce+NoSQL+Architecture)
+[ecommerce-archi](https://github.com/idrissbado/ecommerce-archi)
 
 ## Overview
 
