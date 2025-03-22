@@ -1,6 +1,6 @@
 # NoSQL Database Design for E-Commerce Application
 
-[ecommerce-archi](https://github.com/idrissbado/ecommerce-archi)
+The schema found here [ecommerce-archi](https://github.com/idrissbado/ecommerce-archi)
 
 ## Overview
 
