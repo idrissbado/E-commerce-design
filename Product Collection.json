@@ -1,0 +1,19 @@
+{
+    "_id": "prod456",
+    "name": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise cancellation",
+    "price": 129.99,
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "tags": ["wireless", "headphones", "bluetooth", "audio"],
+    "inventory": 250,
+    "images": ["url1.jpg", "url2.jpg"],
+    "specifications": {
+      "brand": "AudioTech",
+      "color": "Black",
+      "weight": "0.5kg",
+      "battery_life": "20 hours"
+    },
+    "average_rating": 4.7,
+    "review_count": 128
+  }

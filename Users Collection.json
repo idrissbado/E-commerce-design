@@ -1,0 +1,21 @@
+{
+    "_id": "user123",
+    "email": "user@example.com",
+    "password_hash": "hashed_password",
+    "name": "John Doe",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "payment_methods": [
+      {
+        "type": "credit_card",
+        "last_four": "1234",
+        "expiry": "12/25"
+      }
+    ],
+    "created_at": "2023-01-15T10:30:00Z",
+    "order_history": ["order456", "order789"] 
+  }
